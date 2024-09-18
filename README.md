@@ -1,1 +1,1 @@
-![Navigate to the Project directory](view.png)
+(view.png)
