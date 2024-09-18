@@ -1,1 +1,1 @@
-![Output view] (./view.png)
+![Output view] (screenshots/view.png)
